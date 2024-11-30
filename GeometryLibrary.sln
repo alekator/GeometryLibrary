@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary", "Geometry
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibraryTests", "GeometryLibraryTests\GeometryLibraryTests.csproj", "{91C31756-EFA6-4F9C-8F01-4CA7EDBFBDCD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{33F7CAD8-93FA-4C6E-82A1-EC33542C1958}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
